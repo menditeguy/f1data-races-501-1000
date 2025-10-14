@@ -506,233 +506,6 @@
       ]
     },
     {
-      "code": "Q1",
-      "name": "Qualifications 1",
-      "nb_rows": 22,
-      "rows": [
-        {
-          "race_id": 643,
-          "driver_id": 683,
-          "team": null,
-          "best_lap_time_raw": "1:24.591",
-          "best_lap_ms": 84591,
-          "position": null,
-          "year": 1999,
-          "source_name": "R0643_1999_GP13_Q1.csv"
-        },
-        {
-          "race_id": 643,
-          "driver_id": 691,
-          "team": null,
-          "best_lap_time_raw": "1:24.594",
-          "best_lap_ms": 84594,
-          "position": null,
-          "year": 1999,
-          "source_name": "R0643_1999_GP13_Q1.csv"
-        },
-        {
-          "race_id": 643,
-          "driver_id": 705,
-          "team": null,
-          "best_lap_time_raw": "1:22.432",
-          "best_lap_ms": 82432,
-          "position": null,
-          "year": 1999,
-          "source_name": "R0643_1999_GP13_Q1.csv"
-        },
-        {
-          "race_id": 643,
-          "driver_id": 710,
-          "team": null,
-          "best_lap_time_raw": "1:23.432",
-          "best_lap_ms": 83432,
-          "position": null,
-          "year": 1999,
-          "source_name": "R0643_1999_GP13_Q1.csv"
-        },
-        {
-          "race_id": 643,
-          "driver_id": 716,
-          "team": null,
-          "best_lap_time_raw": "1:23.979",
-          "best_lap_ms": 83979,
-          "position": null,
-          "year": 1999,
-          "source_name": "R0643_1999_GP13_Q1.csv"
-        },
-        {
-          "race_id": 643,
-          "driver_id": 722,
-          "team": null,
-          "best_lap_time_raw": "1:25.348",
-          "best_lap_ms": 85348,
-          "position": null,
-          "year": 1999,
-          "source_name": "R0643_1999_GP13_Q1.csv"
-        },
-        {
-          "race_id": 643,
-          "driver_id": 723,
-          "team": null,
-          "best_lap_time_raw": "1:23.739",
-          "best_lap_ms": 83739,
-          "position": null,
-          "year": 1999,
-          "source_name": "R0643_1999_GP13_Q1.csv"
-        },
-        {
-          "race_id": 643,
-          "driver_id": 725,
-          "team": null,
-          "best_lap_time_raw": "1:23.765",
-          "best_lap_ms": 83765,
-          "position": null,
-          "year": 1999,
-          "source_name": "R0643_1999_GP13_Q1.csv"
-        },
-        {
-          "race_id": 643,
-          "driver_id": 730,
-          "team": null,
-          "best_lap_time_raw": "1:23.177",
-          "best_lap_ms": 83176,
-          "position": null,
-          "year": 1999,
-          "source_name": "R0643_1999_GP13_Q1.csv"
-        },
-        {
-          "race_id": 643,
-          "driver_id": 732,
-          "team": null,
-          "best_lap_time_raw": "1:22.926",
-          "best_lap_ms": 82926,
-          "position": null,
-          "year": 1999,
-          "source_name": "R0643_1999_GP13_Q1.csv"
-        },
-        {
-          "race_id": 643,
-          "driver_id": 737,
-          "team": null,
-          "best_lap_time_raw": "1:24.016",
-          "best_lap_ms": 84015,
-          "position": null,
-          "year": 1999,
-          "source_name": "R0643_1999_GP13_Q1.csv"
-        },
-        {
-          "race_id": 643,
-          "driver_id": 739,
-          "team": null,
-          "best_lap_time_raw": "1:23.657",
-          "best_lap_ms": 83657,
-          "position": null,
-          "year": 1999,
-          "source_name": "R0643_1999_GP13_Q1.csv"
-        },
-        {
-          "race_id": 643,
-          "driver_id": 743,
-          "team": null,
-          "best_lap_time_raw": "1:24.596",
-          "best_lap_ms": 84596,
-          "position": null,
-          "year": 1999,
-          "source_name": "R0643_1999_GP13_Q1.csv"
-        },
-        {
-          "race_id": 643,
-          "driver_id": 747,
-          "team": null,
-          "best_lap_time_raw": "1:24.862",
-          "best_lap_ms": 84862,
-          "position": null,
-          "year": 1999,
-          "source_name": "R0643_1999_GP13_Q1.csv"
-        },
-        {
-          "race_id": 643,
-          "driver_id": 750,
-          "team": null,
-          "best_lap_time_raw": "1:24.188",
-          "best_lap_ms": 84188,
-          "position": null,
-          "year": 1999,
-          "source_name": "R0643_1999_GP13_Q1.csv"
-        },
-        {
-          "race_id": 643,
-          "driver_id": 753,
-          "team": null,
-          "best_lap_time_raw": "1:23.636",
-          "best_lap_ms": 83636,
-          "position": null,
-          "year": 1999,
-          "source_name": "R0643_1999_GP13_Q1.csv"
-        },
-        {
-          "race_id": 643,
-          "driver_id": 755,
-          "team": null,
-          "best_lap_time_raw": "1:24.293",
-          "best_lap_ms": 84293,
-          "position": null,
-          "year": 1999,
-          "source_name": "R0643_1999_GP13_Q1.csv"
-        },
-        {
-          "race_id": 643,
-          "driver_id": 756,
-          "team": null,
-          "best_lap_time_raw": "1:24.593",
-          "best_lap_ms": 84593,
-          "position": null,
-          "year": 1999,
-          "source_name": "R0643_1999_GP13_Q1.csv"
-        },
-        {
-          "race_id": 643,
-          "driver_id": 757,
-          "team": null,
-          "best_lap_time_raw": "1:26.509",
-          "best_lap_ms": 86509,
-          "position": null,
-          "year": 1999,
-          "source_name": "R0643_1999_GP13_Q1.csv"
-        },
-        {
-          "race_id": 643,
-          "driver_id": 759,
-          "team": null,
-          "best_lap_time_raw": "1:26.383",
-          "best_lap_ms": 86383,
-          "position": null,
-          "year": 1999,
-          "source_name": "R0643_1999_GP13_Q1.csv"
-        },
-        {
-          "race_id": 643,
-          "driver_id": 760,
-          "team": null,
-          "best_lap_time_raw": "1:25.695",
-          "best_lap_ms": 85695,
-          "position": null,
-          "year": 1999,
-          "source_name": "R0643_1999_GP13_Q1.csv"
-        },
-        {
-          "race_id": 643,
-          "driver_id": 762,
-          "team": null,
-          "best_lap_time_raw": "1:25.114",
-          "best_lap_ms": 85114,
-          "position": null,
-          "year": 1999,
-          "source_name": "R0643_1999_GP13_Q1.csv"
-        }
-      ]
-    },
-    {
       "code": "WUP",
       "name": "Warm-Up",
       "nb_rows": 22,
@@ -982,6 +755,255 @@
       ]
     },
     {
+      "code": "Q1",
+      "name": "Qualifications 1",
+      "nb_rows": 22,
+      "rows": [
+        {
+          "race_id": 643,
+          "driver_id": 683,
+          "team": null,
+          "best_lap_time_raw": "1:24.591",
+          "best_lap_ms": 84591,
+          "position": null,
+          "laps": 12,
+          "year": 1999,
+          "source_name": "R0643_1999_GP13_Q1.csv"
+        },
+        {
+          "race_id": 643,
+          "driver_id": 691,
+          "team": null,
+          "best_lap_time_raw": "1:24.594",
+          "best_lap_ms": 84594,
+          "position": null,
+          "laps": 12,
+          "year": 1999,
+          "source_name": "R0643_1999_GP13_Q1.csv"
+        },
+        {
+          "race_id": 643,
+          "driver_id": 705,
+          "team": null,
+          "best_lap_time_raw": "1:22.432",
+          "best_lap_ms": 82432,
+          "position": null,
+          "laps": 10,
+          "year": 1999,
+          "source_name": "R0643_1999_GP13_Q1.csv"
+        },
+        {
+          "race_id": 643,
+          "driver_id": 710,
+          "team": null,
+          "best_lap_time_raw": "1:23.432",
+          "best_lap_ms": 83432,
+          "position": null,
+          "laps": 12,
+          "year": 1999,
+          "source_name": "R0643_1999_GP13_Q1.csv"
+        },
+        {
+          "race_id": 643,
+          "driver_id": 716,
+          "team": null,
+          "best_lap_time_raw": "1:23.979",
+          "best_lap_ms": 83979,
+          "position": null,
+          "laps": 11,
+          "year": 1999,
+          "source_name": "R0643_1999_GP13_Q1.csv"
+        },
+        {
+          "race_id": 643,
+          "driver_id": 722,
+          "team": null,
+          "best_lap_time_raw": "1:25.348",
+          "best_lap_ms": 85348,
+          "position": null,
+          "laps": 11,
+          "year": 1999,
+          "source_name": "R0643_1999_GP13_Q1.csv"
+        },
+        {
+          "race_id": 643,
+          "driver_id": 723,
+          "team": null,
+          "best_lap_time_raw": "1:23.739",
+          "best_lap_ms": 83739,
+          "position": null,
+          "laps": 11,
+          "year": 1999,
+          "source_name": "R0643_1999_GP13_Q1.csv"
+        },
+        {
+          "race_id": 643,
+          "driver_id": 725,
+          "team": null,
+          "best_lap_time_raw": "1:23.765",
+          "best_lap_ms": 83765,
+          "position": null,
+          "laps": 12,
+          "year": 1999,
+          "source_name": "R0643_1999_GP13_Q1.csv"
+        },
+        {
+          "race_id": 643,
+          "driver_id": 730,
+          "team": null,
+          "best_lap_time_raw": "1:23.177",
+          "best_lap_ms": 83176,
+          "position": null,
+          "laps": 12,
+          "year": 1999,
+          "source_name": "R0643_1999_GP13_Q1.csv"
+        },
+        {
+          "race_id": 643,
+          "driver_id": 732,
+          "team": null,
+          "best_lap_time_raw": "1:22.926",
+          "best_lap_ms": 82926,
+          "position": null,
+          "laps": 11,
+          "year": 1999,
+          "source_name": "R0643_1999_GP13_Q1.csv"
+        },
+        {
+          "race_id": 643,
+          "driver_id": 737,
+          "team": null,
+          "best_lap_time_raw": "1:24.016",
+          "best_lap_ms": 84015,
+          "position": null,
+          "laps": 12,
+          "year": 1999,
+          "source_name": "R0643_1999_GP13_Q1.csv"
+        },
+        {
+          "race_id": 643,
+          "driver_id": 739,
+          "team": null,
+          "best_lap_time_raw": "1:23.657",
+          "best_lap_ms": 83657,
+          "position": null,
+          "laps": 12,
+          "year": 1999,
+          "source_name": "R0643_1999_GP13_Q1.csv"
+        },
+        {
+          "race_id": 643,
+          "driver_id": 743,
+          "team": null,
+          "best_lap_time_raw": "1:24.596",
+          "best_lap_ms": 84596,
+          "position": null,
+          "laps": 11,
+          "year": 1999,
+          "source_name": "R0643_1999_GP13_Q1.csv"
+        },
+        {
+          "race_id": 643,
+          "driver_id": 747,
+          "team": null,
+          "best_lap_time_raw": "1:24.862",
+          "best_lap_ms": 84862,
+          "position": null,
+          "laps": 12,
+          "year": 1999,
+          "source_name": "R0643_1999_GP13_Q1.csv"
+        },
+        {
+          "race_id": 643,
+          "driver_id": 750,
+          "team": null,
+          "best_lap_time_raw": "1:24.188",
+          "best_lap_ms": 84188,
+          "position": null,
+          "laps": 11,
+          "year": 1999,
+          "source_name": "R0643_1999_GP13_Q1.csv"
+        },
+        {
+          "race_id": 643,
+          "driver_id": 753,
+          "team": null,
+          "best_lap_time_raw": "1:23.636",
+          "best_lap_ms": 83636,
+          "position": null,
+          "laps": 12,
+          "year": 1999,
+          "source_name": "R0643_1999_GP13_Q1.csv"
+        },
+        {
+          "race_id": 643,
+          "driver_id": 755,
+          "team": null,
+          "best_lap_time_raw": "1:24.293",
+          "best_lap_ms": 84293,
+          "position": null,
+          "laps": 11,
+          "year": 1999,
+          "source_name": "R0643_1999_GP13_Q1.csv"
+        },
+        {
+          "race_id": 643,
+          "driver_id": 756,
+          "team": null,
+          "best_lap_time_raw": "1:24.593",
+          "best_lap_ms": 84593,
+          "position": null,
+          "laps": 12,
+          "year": 1999,
+          "source_name": "R0643_1999_GP13_Q1.csv"
+        },
+        {
+          "race_id": 643,
+          "driver_id": 757,
+          "team": null,
+          "best_lap_time_raw": "1:26.509",
+          "best_lap_ms": 86509,
+          "position": null,
+          "laps": 12,
+          "year": 1999,
+          "source_name": "R0643_1999_GP13_Q1.csv"
+        },
+        {
+          "race_id": 643,
+          "driver_id": 759,
+          "team": null,
+          "best_lap_time_raw": "1:26.383",
+          "best_lap_ms": 86383,
+          "position": null,
+          "laps": 11,
+          "year": 1999,
+          "source_name": "R0643_1999_GP13_Q1.csv"
+        },
+        {
+          "race_id": 643,
+          "driver_id": 760,
+          "team": null,
+          "best_lap_time_raw": "1:25.695",
+          "best_lap_ms": 85695,
+          "position": null,
+          "laps": 12,
+          "year": 1999,
+          "source_name": "R0643_1999_GP13_Q1.csv"
+        },
+        {
+          "race_id": 643,
+          "driver_id": 762,
+          "team": null,
+          "best_lap_time_raw": "1:25.114",
+          "best_lap_ms": 85114,
+          "position": null,
+          "laps": 12,
+          "year": 1999,
+          "source_name": "R0643_1999_GP13_Q1.csv"
+        }
+      ]
+    },
+    {
       "code": "GRILLE",
       "name": "Grille de départ",
       "nb_rows": 22,
@@ -994,7 +1016,8 @@
           "best_lap_ms": 84591,
           "position": 13,
           "year": 1999,
-          "source_name": "grille_1999.csv"
+          "source_name": "grille_1999.csv",
+          "total_laps_q1q4": 12
         },
         {
           "race_id": 643,
@@ -1004,7 +1027,8 @@
           "best_lap_ms": 84594,
           "position": 15,
           "year": 1999,
-          "source_name": "grille_1999.csv"
+          "source_name": "grille_1999.csv",
+          "total_laps_q1q4": 12
         },
         {
           "race_id": 643,
@@ -1014,7 +1038,8 @@
           "best_lap_ms": 82432,
           "position": 1,
           "year": 1999,
-          "source_name": "grille_1999.csv"
+          "source_name": "grille_1999.csv",
+          "total_laps_q1q4": 10
         },
         {
           "race_id": 643,
@@ -1024,7 +1049,8 @@
           "best_lap_ms": 83432,
           "position": 4,
           "year": 1999,
-          "source_name": "grille_1999.csv"
+          "source_name": "grille_1999.csv",
+          "total_laps_q1q4": 12
         },
         {
           "race_id": 643,
@@ -1034,7 +1060,8 @@
           "best_lap_ms": 83979,
           "position": 9,
           "year": 1999,
-          "source_name": "grille_1999.csv"
+          "source_name": "grille_1999.csv",
+          "total_laps_q1q4": 11
         },
         {
           "race_id": 643,
@@ -1044,7 +1071,8 @@
           "best_lap_ms": 85348,
           "position": 19,
           "year": 1999,
-          "source_name": "grille_1999.csv"
+          "source_name": "grille_1999.csv",
+          "total_laps_q1q4": 11
         },
         {
           "race_id": 643,
@@ -1054,7 +1082,8 @@
           "best_lap_ms": 83739,
           "position": 7,
           "year": 1999,
-          "source_name": "grille_1999.csv"
+          "source_name": "grille_1999.csv",
+          "total_laps_q1q4": 11
         },
         {
           "race_id": 643,
@@ -1064,7 +1093,8 @@
           "best_lap_ms": 83765,
           "position": 8,
           "year": 1999,
-          "source_name": "grille_1999.csv"
+          "source_name": "grille_1999.csv",
+          "total_laps_q1q4": 12
         },
         {
           "race_id": 643,
@@ -1074,7 +1104,8 @@
           "best_lap_ms": 83177,
           "position": 3,
           "year": 1999,
-          "source_name": "grille_1999.csv"
+          "source_name": "grille_1999.csv",
+          "total_laps_q1q4": 12
         },
         {
           "race_id": 643,
@@ -1084,7 +1115,8 @@
           "best_lap_ms": 82926,
           "position": 2,
           "year": 1999,
-          "source_name": "grille_1999.csv"
+          "source_name": "grille_1999.csv",
+          "total_laps_q1q4": 11
         },
         {
           "race_id": 643,
@@ -1094,7 +1126,8 @@
           "best_lap_ms": 84016,
           "position": 10,
           "year": 1999,
-          "source_name": "grille_1999.csv"
+          "source_name": "grille_1999.csv",
+          "total_laps_q1q4": 12
         },
         {
           "race_id": 643,
@@ -1104,7 +1137,8 @@
           "best_lap_ms": 83657,
           "position": 6,
           "year": 1999,
-          "source_name": "grille_1999.csv"
+          "source_name": "grille_1999.csv",
+          "total_laps_q1q4": 12
         },
         {
           "race_id": 643,
@@ -1114,7 +1148,8 @@
           "best_lap_ms": 84596,
           "position": 16,
           "year": 1999,
-          "source_name": "grille_1999.csv"
+          "source_name": "grille_1999.csv",
+          "total_laps_q1q4": 11
         },
         {
           "race_id": 643,
@@ -1124,7 +1159,8 @@
           "best_lap_ms": 84862,
           "position": 17,
           "year": 1999,
-          "source_name": "grille_1999.csv"
+          "source_name": "grille_1999.csv",
+          "total_laps_q1q4": 12
         },
         {
           "race_id": 643,
@@ -1134,7 +1170,8 @@
           "best_lap_ms": 84188,
           "position": 11,
           "year": 1999,
-          "source_name": "grille_1999.csv"
+          "source_name": "grille_1999.csv",
+          "total_laps_q1q4": 11
         },
         {
           "race_id": 643,
@@ -1144,7 +1181,8 @@
           "best_lap_ms": 83636,
           "position": 5,
           "year": 1999,
-          "source_name": "grille_1999.csv"
+          "source_name": "grille_1999.csv",
+          "total_laps_q1q4": 12
         },
         {
           "race_id": 643,
@@ -1154,7 +1192,8 @@
           "best_lap_ms": 84293,
           "position": 12,
           "year": 1999,
-          "source_name": "grille_1999.csv"
+          "source_name": "grille_1999.csv",
+          "total_laps_q1q4": 11
         },
         {
           "race_id": 643,
@@ -1164,7 +1203,8 @@
           "best_lap_ms": 84593,
           "position": 14,
           "year": 1999,
-          "source_name": "grille_1999.csv"
+          "source_name": "grille_1999.csv",
+          "total_laps_q1q4": 12
         },
         {
           "race_id": 643,
@@ -1174,7 +1214,8 @@
           "best_lap_ms": 86509,
           "position": 22,
           "year": 1999,
-          "source_name": "grille_1999.csv"
+          "source_name": "grille_1999.csv",
+          "total_laps_q1q4": 12
         },
         {
           "race_id": 643,
@@ -1184,7 +1225,8 @@
           "best_lap_ms": 86383,
           "position": 21,
           "year": 1999,
-          "source_name": "grille_1999.csv"
+          "source_name": "grille_1999.csv",
+          "total_laps_q1q4": 11
         },
         {
           "race_id": 643,
@@ -1194,7 +1236,8 @@
           "best_lap_ms": 85695,
           "position": 20,
           "year": 1999,
-          "source_name": "grille_1999.csv"
+          "source_name": "grille_1999.csv",
+          "total_laps_q1q4": 12
         },
         {
           "race_id": 643,
@@ -1204,7 +1247,8 @@
           "best_lap_ms": 85114,
           "position": 18,
           "year": 1999,
-          "source_name": "grille_1999.csv"
+          "source_name": "grille_1999.csv",
+          "total_laps_q1q4": 12
         }
       ]
     },

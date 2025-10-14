@@ -495,233 +495,6 @@
       ]
     },
     {
-      "code": "Q1",
-      "name": "Qualifications 1",
-      "nb_rows": 22,
-      "rows": [
-        {
-          "race_id": 620,
-          "driver_id": 683,
-          "team": null,
-          "best_lap_time_raw": "1:22.257",
-          "best_lap_ms": 82257,
-          "position": null,
-          "year": 1998,
-          "source_name": "R0620_1998_GP06_Q1.csv"
-        },
-        {
-          "race_id": 620,
-          "driver_id": 691,
-          "team": null,
-          "best_lap_time_raw": "1:22.157",
-          "best_lap_ms": 82157,
-          "position": null,
-          "year": 1998,
-          "source_name": "R0620_1998_GP06_Q1.csv"
-        },
-        {
-          "race_id": 620,
-          "driver_id": 705,
-          "team": null,
-          "best_lap_time_raw": "1:19.798",
-          "best_lap_ms": 79798,
-          "position": null,
-          "year": 1998,
-          "source_name": "R0620_1998_GP06_Q1.csv"
-        },
-        {
-          "race_id": 620,
-          "driver_id": 707,
-          "team": null,
-          "best_lap_time_raw": "1:20.702",
-          "best_lap_ms": 80702,
-          "position": null,
-          "year": 1998,
-          "source_name": "R0620_1998_GP06_Q1.csv"
-        },
-        {
-          "race_id": 620,
-          "driver_id": 716,
-          "team": null,
-          "best_lap_time_raw": "1:23.151",
-          "best_lap_ms": 83151,
-          "position": null,
-          "year": 1998,
-          "source_name": "R0620_1998_GP06_Q1.csv"
-        },
-        {
-          "race_id": 620,
-          "driver_id": 723,
-          "team": null,
-          "best_lap_time_raw": "1:22.540",
-          "best_lap_ms": 82539,
-          "position": null,
-          "year": 1998,
-          "source_name": "R0620_1998_GP06_Q1.csv"
-        },
-        {
-          "race_id": 620,
-          "driver_id": 725,
-          "team": null,
-          "best_lap_time_raw": "1:21.712",
-          "best_lap_ms": 81712,
-          "position": null,
-          "year": 1998,
-          "source_name": "R0620_1998_GP06_Q1.csv"
-        },
-        {
-          "race_id": 620,
-          "driver_id": 730,
-          "team": null,
-          "best_lap_time_raw": "1:20.137",
-          "best_lap_ms": 80137,
-          "position": null,
-          "year": 1998,
-          "source_name": "R0620_1998_GP06_Q1.csv"
-        },
-        {
-          "race_id": 620,
-          "driver_id": 732,
-          "team": null,
-          "best_lap_time_raw": "1:20.729",
-          "best_lap_ms": 80729,
-          "position": null,
-          "year": 1998,
-          "source_name": "R0620_1998_GP06_Q1.csv"
-        },
-        {
-          "race_id": 620,
-          "driver_id": 737,
-          "team": null,
-          "best_lap_time_raw": "1:23.536",
-          "best_lap_ms": 83536,
-          "position": null,
-          "year": 1998,
-          "source_name": "R0620_1998_GP06_Q1.csv"
-        },
-        {
-          "race_id": 620,
-          "driver_id": 739,
-          "team": null,
-          "best_lap_time_raw": "1:22.144",
-          "best_lap_ms": 82144,
-          "position": null,
-          "year": 1998,
-          "source_name": "R0620_1998_GP06_Q1.csv"
-        },
-        {
-          "race_id": 620,
-          "driver_id": 743,
-          "team": null,
-          "best_lap_time_raw": "1:22.355",
-          "best_lap_ms": 82355,
-          "position": null,
-          "year": 1998,
-          "source_name": "R0620_1998_GP06_Q1.csv"
-        },
-        {
-          "race_id": 620,
-          "driver_id": 745,
-          "team": null,
-          "best_lap_time_raw": "1:23.411",
-          "best_lap_ms": 83411,
-          "position": null,
-          "year": 1998,
-          "source_name": "R0620_1998_GP06_Q1.csv"
-        },
-        {
-          "race_id": 620,
-          "driver_id": 747,
-          "team": null,
-          "best_lap_time_raw": "1:20.368",
-          "best_lap_ms": 80368,
-          "position": null,
-          "year": 1998,
-          "source_name": "R0620_1998_GP06_Q1.csv"
-        },
-        {
-          "race_id": 620,
-          "driver_id": 749,
-          "team": null,
-          "best_lap_time_raw": "1:25.737",
-          "best_lap_ms": 85737,
-          "position": null,
-          "year": 1998,
-          "source_name": "R0620_1998_GP06_Q1.csv"
-        },
-        {
-          "race_id": 620,
-          "driver_id": 750,
-          "team": null,
-          "best_lap_time_raw": "1:22.468",
-          "best_lap_ms": 82468,
-          "position": null,
-          "year": 1998,
-          "source_name": "R0620_1998_GP06_Q1.csv"
-        },
-        {
-          "race_id": 620,
-          "driver_id": 752,
-          "team": null,
-          "best_lap_time_raw": "1:23.957",
-          "best_lap_ms": 83957,
-          "position": null,
-          "year": 1998,
-          "source_name": "R0620_1998_GP06_Q1.csv"
-        },
-        {
-          "race_id": 620,
-          "driver_id": 753,
-          "team": null,
-          "best_lap_time_raw": "1:23.263",
-          "best_lap_ms": 83263,
-          "position": null,
-          "year": 1998,
-          "source_name": "R0620_1998_GP06_Q1.csv"
-        },
-        {
-          "race_id": 620,
-          "driver_id": 755,
-          "team": null,
-          "best_lap_time_raw": "1:22.238",
-          "best_lap_ms": 82238,
-          "position": null,
-          "year": 1998,
-          "source_name": "R0620_1998_GP06_Q1.csv"
-        },
-        {
-          "race_id": 620,
-          "driver_id": 756,
-          "team": null,
-          "best_lap_time_raw": "1:20.955",
-          "best_lap_ms": 80955,
-          "position": null,
-          "year": 1998,
-          "source_name": "R0620_1998_GP06_Q1.csv"
-        },
-        {
-          "race_id": 620,
-          "driver_id": 757,
-          "team": null,
-          "best_lap_time_raw": "1:24.024",
-          "best_lap_ms": 84024,
-          "position": null,
-          "year": 1998,
-          "source_name": "R0620_1998_GP06_Q1.csv"
-        },
-        {
-          "race_id": 620,
-          "driver_id": 758,
-          "team": null,
-          "best_lap_time_raw": "1:24.031",
-          "best_lap_ms": 84031,
-          "position": null,
-          "year": 1998,
-          "source_name": "R0620_1998_GP06_Q1.csv"
-        }
-      ]
-    },
-    {
       "code": "WUP",
       "name": "Warm-Up",
       "nb_rows": 21,
@@ -960,6 +733,255 @@
       ]
     },
     {
+      "code": "Q1",
+      "name": "Qualifications 1",
+      "nb_rows": 22,
+      "rows": [
+        {
+          "race_id": 620,
+          "driver_id": 683,
+          "team": null,
+          "best_lap_time_raw": "1:22.257",
+          "best_lap_ms": 82257,
+          "position": null,
+          "laps": 12,
+          "year": 1998,
+          "source_name": "R0620_1998_GP06_Q1.csv"
+        },
+        {
+          "race_id": 620,
+          "driver_id": 691,
+          "team": null,
+          "best_lap_time_raw": "1:22.157",
+          "best_lap_ms": 82157,
+          "position": null,
+          "laps": 11,
+          "year": 1998,
+          "source_name": "R0620_1998_GP06_Q1.csv"
+        },
+        {
+          "race_id": 620,
+          "driver_id": 705,
+          "team": null,
+          "best_lap_time_raw": "1:19.798",
+          "best_lap_ms": 79798,
+          "position": null,
+          "laps": 12,
+          "year": 1998,
+          "source_name": "R0620_1998_GP06_Q1.csv"
+        },
+        {
+          "race_id": 620,
+          "driver_id": 707,
+          "team": null,
+          "best_lap_time_raw": "1:20.702",
+          "best_lap_ms": 80702,
+          "position": null,
+          "laps": 11,
+          "year": 1998,
+          "source_name": "R0620_1998_GP06_Q1.csv"
+        },
+        {
+          "race_id": 620,
+          "driver_id": 716,
+          "team": null,
+          "best_lap_time_raw": "1:23.151",
+          "best_lap_ms": 83151,
+          "position": null,
+          "laps": 12,
+          "year": 1998,
+          "source_name": "R0620_1998_GP06_Q1.csv"
+        },
+        {
+          "race_id": 620,
+          "driver_id": 723,
+          "team": null,
+          "best_lap_time_raw": "1:22.540",
+          "best_lap_ms": 82539,
+          "position": null,
+          "laps": 11,
+          "year": 1998,
+          "source_name": "R0620_1998_GP06_Q1.csv"
+        },
+        {
+          "race_id": 620,
+          "driver_id": 725,
+          "team": null,
+          "best_lap_time_raw": "1:21.712",
+          "best_lap_ms": 81712,
+          "position": null,
+          "laps": 11,
+          "year": 1998,
+          "source_name": "R0620_1998_GP06_Q1.csv"
+        },
+        {
+          "race_id": 620,
+          "driver_id": 730,
+          "team": null,
+          "best_lap_time_raw": "1:20.137",
+          "best_lap_ms": 80137,
+          "position": null,
+          "laps": 11,
+          "year": 1998,
+          "source_name": "R0620_1998_GP06_Q1.csv"
+        },
+        {
+          "race_id": 620,
+          "driver_id": 732,
+          "team": null,
+          "best_lap_time_raw": "1:20.729",
+          "best_lap_ms": 80729,
+          "position": null,
+          "laps": 12,
+          "year": 1998,
+          "source_name": "R0620_1998_GP06_Q1.csv"
+        },
+        {
+          "race_id": 620,
+          "driver_id": 737,
+          "team": null,
+          "best_lap_time_raw": "1:23.536",
+          "best_lap_ms": 83536,
+          "position": null,
+          "laps": 11,
+          "year": 1998,
+          "source_name": "R0620_1998_GP06_Q1.csv"
+        },
+        {
+          "race_id": 620,
+          "driver_id": 739,
+          "team": null,
+          "best_lap_time_raw": "1:22.144",
+          "best_lap_ms": 82144,
+          "position": null,
+          "laps": 11,
+          "year": 1998,
+          "source_name": "R0620_1998_GP06_Q1.csv"
+        },
+        {
+          "race_id": 620,
+          "driver_id": 743,
+          "team": null,
+          "best_lap_time_raw": "1:22.355",
+          "best_lap_ms": 82355,
+          "position": null,
+          "laps": 12,
+          "year": 1998,
+          "source_name": "R0620_1998_GP06_Q1.csv"
+        },
+        {
+          "race_id": 620,
+          "driver_id": 745,
+          "team": null,
+          "best_lap_time_raw": "1:23.411",
+          "best_lap_ms": 83411,
+          "position": null,
+          "laps": 12,
+          "year": 1998,
+          "source_name": "R0620_1998_GP06_Q1.csv"
+        },
+        {
+          "race_id": 620,
+          "driver_id": 747,
+          "team": null,
+          "best_lap_time_raw": "1:20.368",
+          "best_lap_ms": 80368,
+          "position": null,
+          "laps": 12,
+          "year": 1998,
+          "source_name": "R0620_1998_GP06_Q1.csv"
+        },
+        {
+          "race_id": 620,
+          "driver_id": 749,
+          "team": null,
+          "best_lap_time_raw": "1:25.737",
+          "best_lap_ms": 85737,
+          "position": null,
+          "laps": 9,
+          "year": 1998,
+          "source_name": "R0620_1998_GP06_Q1.csv"
+        },
+        {
+          "race_id": 620,
+          "driver_id": 750,
+          "team": null,
+          "best_lap_time_raw": "1:22.468",
+          "best_lap_ms": 82468,
+          "position": null,
+          "laps": 12,
+          "year": 1998,
+          "source_name": "R0620_1998_GP06_Q1.csv"
+        },
+        {
+          "race_id": 620,
+          "driver_id": 752,
+          "team": null,
+          "best_lap_time_raw": "1:23.957",
+          "best_lap_ms": 83957,
+          "position": null,
+          "laps": 12,
+          "year": 1998,
+          "source_name": "R0620_1998_GP06_Q1.csv"
+        },
+        {
+          "race_id": 620,
+          "driver_id": 753,
+          "team": null,
+          "best_lap_time_raw": "1:23.263",
+          "best_lap_ms": 83263,
+          "position": null,
+          "laps": 12,
+          "year": 1998,
+          "source_name": "R0620_1998_GP06_Q1.csv"
+        },
+        {
+          "race_id": 620,
+          "driver_id": 755,
+          "team": null,
+          "best_lap_time_raw": "1:22.238",
+          "best_lap_ms": 82238,
+          "position": null,
+          "laps": 12,
+          "year": 1998,
+          "source_name": "R0620_1998_GP06_Q1.csv"
+        },
+        {
+          "race_id": 620,
+          "driver_id": 756,
+          "team": null,
+          "best_lap_time_raw": "1:20.955",
+          "best_lap_ms": 80955,
+          "position": null,
+          "laps": 12,
+          "year": 1998,
+          "source_name": "R0620_1998_GP06_Q1.csv"
+        },
+        {
+          "race_id": 620,
+          "driver_id": 757,
+          "team": null,
+          "best_lap_time_raw": "1:24.024",
+          "best_lap_ms": 84024,
+          "position": null,
+          "laps": 12,
+          "year": 1998,
+          "source_name": "R0620_1998_GP06_Q1.csv"
+        },
+        {
+          "race_id": 620,
+          "driver_id": 758,
+          "team": null,
+          "best_lap_time_raw": "1:24.031",
+          "best_lap_ms": 84031,
+          "position": null,
+          "laps": 12,
+          "year": 1998,
+          "source_name": "R0620_1998_GP06_Q1.csv"
+        }
+      ]
+    },
+    {
       "code": "GRILLE",
       "name": "Grille de départ",
       "nb_rows": 22,
@@ -972,7 +994,8 @@
           "best_lap_ms": 82257,
           "position": 11,
           "year": 1998,
-          "source_name": "grille_1998.csv"
+          "source_name": "grille_1998.csv",
+          "total_laps_q1q4": 12
         },
         {
           "race_id": 620,
@@ -982,7 +1005,8 @@
           "best_lap_ms": 82157,
           "position": 9,
           "year": 1998,
-          "source_name": "grille_1998.csv"
+          "source_name": "grille_1998.csv",
+          "total_laps_q1q4": 11
         },
         {
           "race_id": 620,
@@ -992,7 +1016,8 @@
           "best_lap_ms": 79798,
           "position": 1,
           "year": 1998,
-          "source_name": "grille_1998.csv"
+          "source_name": "grille_1998.csv",
+          "total_laps_q1q4": 12
         },
         {
           "race_id": 620,
@@ -1002,7 +1027,8 @@
           "best_lap_ms": 80702,
           "position": 4,
           "year": 1998,
-          "source_name": "grille_1998.csv"
+          "source_name": "grille_1998.csv",
+          "total_laps_q1q4": 11
         },
         {
           "race_id": 620,
@@ -1012,7 +1038,8 @@
           "best_lap_ms": 83151,
           "position": 15,
           "year": 1998,
-          "source_name": "grille_1998.csv"
+          "source_name": "grille_1998.csv",
+          "total_laps_q1q4": 12
         },
         {
           "race_id": 620,
@@ -1022,7 +1049,8 @@
           "best_lap_ms": 82540,
           "position": 14,
           "year": 1998,
-          "source_name": "grille_1998.csv"
+          "source_name": "grille_1998.csv",
+          "total_laps_q1q4": 11
         },
         {
           "race_id": 620,
@@ -1032,7 +1060,8 @@
           "best_lap_ms": 81712,
           "position": 7,
           "year": 1998,
-          "source_name": "grille_1998.csv"
+          "source_name": "grille_1998.csv",
+          "total_laps_q1q4": 11
         },
         {
           "race_id": 620,
@@ -1042,7 +1071,8 @@
           "best_lap_ms": 80137,
           "position": 2,
           "year": 1998,
-          "source_name": "grille_1998.csv"
+          "source_name": "grille_1998.csv",
+          "total_laps_q1q4": 11
         },
         {
           "race_id": 620,
@@ -1052,7 +1082,8 @@
           "best_lap_ms": 80729,
           "position": 5,
           "year": 1998,
-          "source_name": "grille_1998.csv"
+          "source_name": "grille_1998.csv",
+          "total_laps_q1q4": 12
         },
         {
           "race_id": 620,
@@ -1062,7 +1093,8 @@
           "best_lap_ms": 83536,
           "position": 18,
           "year": 1998,
-          "source_name": "grille_1998.csv"
+          "source_name": "grille_1998.csv",
+          "total_laps_q1q4": 11
         },
         {
           "race_id": 620,
@@ -1072,7 +1104,8 @@
           "best_lap_ms": 82144,
           "position": 8,
           "year": 1998,
-          "source_name": "grille_1998.csv"
+          "source_name": "grille_1998.csv",
+          "total_laps_q1q4": 11
         },
         {
           "race_id": 620,
@@ -1082,7 +1115,8 @@
           "best_lap_ms": 82355,
           "position": 12,
           "year": 1998,
-          "source_name": "grille_1998.csv"
+          "source_name": "grille_1998.csv",
+          "total_laps_q1q4": 12
         },
         {
           "race_id": 620,
@@ -1092,7 +1126,8 @@
           "best_lap_ms": 83411,
           "position": 17,
           "year": 1998,
-          "source_name": "grille_1998.csv"
+          "source_name": "grille_1998.csv",
+          "total_laps_q1q4": 12
         },
         {
           "race_id": 620,
@@ -1102,7 +1137,8 @@
           "best_lap_ms": 80368,
           "position": 3,
           "year": 1998,
-          "source_name": "grille_1998.csv"
+          "source_name": "grille_1998.csv",
+          "total_laps_q1q4": 12
         },
         {
           "race_id": 620,
@@ -1112,7 +1148,8 @@
           "best_lap_ms": 85737,
           "position": 22,
           "year": 1998,
-          "source_name": "grille_1998.csv"
+          "source_name": "grille_1998.csv",
+          "total_laps_q1q4": 9
         },
         {
           "race_id": 620,
@@ -1122,7 +1159,8 @@
           "best_lap_ms": 82468,
           "position": 13,
           "year": 1998,
-          "source_name": "grille_1998.csv"
+          "source_name": "grille_1998.csv",
+          "total_laps_q1q4": 12
         },
         {
           "race_id": 620,
@@ -1132,7 +1170,8 @@
           "best_lap_ms": 83957,
           "position": 19,
           "year": 1998,
-          "source_name": "grille_1998.csv"
+          "source_name": "grille_1998.csv",
+          "total_laps_q1q4": 12
         },
         {
           "race_id": 620,
@@ -1142,7 +1181,8 @@
           "best_lap_ms": 83263,
           "position": 16,
           "year": 1998,
-          "source_name": "grille_1998.csv"
+          "source_name": "grille_1998.csv",
+          "total_laps_q1q4": 12
         },
         {
           "race_id": 620,
@@ -1152,7 +1192,8 @@
           "best_lap_ms": 82238,
           "position": 10,
           "year": 1998,
-          "source_name": "grille_1998.csv"
+          "source_name": "grille_1998.csv",
+          "total_laps_q1q4": 12
         },
         {
           "race_id": 620,
@@ -1162,7 +1203,8 @@
           "best_lap_ms": 80955,
           "position": 6,
           "year": 1998,
-          "source_name": "grille_1998.csv"
+          "source_name": "grille_1998.csv",
+          "total_laps_q1q4": 12
         },
         {
           "race_id": 620,
@@ -1172,7 +1214,8 @@
           "best_lap_ms": 84024,
           "position": 20,
           "year": 1998,
-          "source_name": "grille_1998.csv"
+          "source_name": "grille_1998.csv",
+          "total_laps_q1q4": 12
         },
         {
           "race_id": 620,
@@ -1182,7 +1225,8 @@
           "best_lap_ms": 84031,
           "position": 21,
           "year": 1998,
-          "source_name": "grille_1998.csv"
+          "source_name": "grille_1998.csv",
+          "total_laps_q1q4": 12
         }
       ]
     },
