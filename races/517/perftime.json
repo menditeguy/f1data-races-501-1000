@@ -9,14 +9,14 @@
     },
     {
       "driver_id": 660,
-      "team": "Honda Marlboro McLaren/Honda",
+      "team": "Honda Marlboro McLaren",
       "best_ms": 76227,
       "best_raw": "1:16.227",
       "source_session": "Q2"
     },
     {
       "driver_id": 654,
-      "team": "Honda Marlboro McLaren/Honda",
+      "team": "Honda Marlboro McLaren",
       "best_ms": 76672,
       "best_raw": "1:16.672",
       "source_session": "Q1"
@@ -30,7 +30,7 @@
     },
     {
       "driver_id": 683,
-      "team": "Scuderia Ferrari SpA/Ferrari",
+      "team": "Scuderia Ferrari SpA",
       "best_ms": 77208,
       "best_raw": "1:17.208",
       "source_session": "Q2"
@@ -58,7 +58,7 @@
     },
     {
       "driver_id": 662,
-      "team": "Scuderia Ferrari SpA/Ferrari",
+      "team": "Scuderia Ferrari SpA",
       "best_ms": 78387,
       "best_raw": "1:18.387",
       "source_session": "Q2"
@@ -107,14 +107,14 @@
     },
     {
       "driver_id": 682,
-      "team": "Footwork Mugen Honda/Mugen Honda",
+      "team": "Footwork Mugen Honda",
       "best_ms": 79532,
       "best_raw": "1:19.532",
       "source_session": "Q1"
     },
     {
       "driver_id": 628,
-      "team": "Footwork Mugen Honda/Mugen Honda",
+      "team": "Footwork Mugen Honda",
       "best_ms": 79571,
       "best_raw": "1:19.571",
       "source_session": "Q1"
@@ -149,14 +149,14 @@
     },
     {
       "driver_id": 673,
-      "team": "Sasol Jordan Yamaha/Yamaha",
+      "team": "Sasol Jordan Yamaha",
       "best_ms": 79828,
       "best_raw": "1:19.828",
       "source_session": "EL2"
     },
     {
       "driver_id": 677,
-      "team": "Sasol Jordan Yamaha/Yamaha",
+      "team": "Sasol Jordan Yamaha",
       "best_ms": 79984,
       "best_raw": "1:19.984",
       "source_session": "EL3"
@@ -219,7 +219,6 @@
     }
   ],
   "race_id": 517,
-  "year": 1992,
-  "updated_at": "2025-10-21T13:34:11.612003Z",
-  "schema": "v3.4-test"
+  "updated_at": "2025-10-21T14:36:34.744275Z",
+  "schema": "v3.4"
 }
