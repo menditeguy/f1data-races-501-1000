@@ -1,199 +1,175 @@
 {
-  "race_id": 578,
-  "generated_at": "2025-10-21T10:54:54Z",
-  "schema": "v3.3",
   "drivers": [
     {
-      "driver_id": 643,
-      "team": "",
-      "best_time_ms": 86098,
-      "best_time_raw": "1:26.098",
-      "source_session": "Q2",
-      "perf_pct": 109.347
-    },
-    {
-      "driver_id": 654,
-      "team": "",
-      "best_time_ms": 79821,
-      "best_time_raw": "1:19.821",
-      "source_session": "Q1",
-      "perf_pct": 101.375
-    },
-    {
-      "driver_id": 655,
-      "team": "",
-      "best_time_ms": 81541,
-      "best_time_raw": "1:21.541",
-      "source_session": "Q1",
-      "perf_pct": 103.56
-    },
-    {
-      "driver_id": 675,
-      "team": "",
-      "best_time_ms": 84286,
-      "best_time_raw": "1:24.286",
-      "source_session": "Q1",
-      "perf_pct": 107.046
-    },
-    {
-      "driver_id": 683,
-      "team": "",
-      "best_time_ms": 80510,
-      "best_time_raw": "1:20.510",
-      "source_session": "Q2",
-      "perf_pct": 102.251
-    },
-    {
-      "driver_id": 691,
-      "team": "",
-      "best_time_ms": 80652,
-      "best_time_raw": "1:20.653",
-      "source_session": "Q1",
-      "perf_pct": 102.431
-    },
-    {
-      "driver_id": 702,
-      "team": "",
-      "best_time_ms": 80908,
-      "best_time_raw": "1:20.909",
-      "source_session": "Q1",
-      "perf_pct": 102.756
-    },
-    {
-      "driver_id": 705,
-      "team": "",
-      "best_time_ms": 80866,
-      "best_time_raw": "1:20.866",
-      "source_session": "Q1",
-      "perf_pct": 102.703
-    },
-    {
-      "driver_id": 707,
-      "team": "",
-      "best_time_ms": 79150,
-      "best_time_raw": "1:19.150",
-      "source_session": "Q2",
-      "perf_pct": 100.523
+      "driver_id": 730,
+      "team": "Rothmans Williams Renault",
+      "best_ms": 78738,
+      "best_raw": "1:18.738",
+      "source_session": "Q1"
     },
     {
       "driver_id": 716,
-      "team": "",
-      "best_time_ms": 78972,
-      "best_time_raw": "1:18.972",
-      "source_session": "Q1",
-      "perf_pct": 100.297
+      "team": "Rothmans Williams Renault",
+      "best_ms": 78972,
+      "best_raw": "1:18.972",
+      "source_session": "Q1"
     },
     {
-      "driver_id": 722,
-      "team": "",
-      "best_time_ms": 83760,
-      "best_time_raw": "1:23.760",
-      "source_session": "Q1",
-      "perf_pct": 106.378
+      "driver_id": 707,
+      "team": "Mild Seven Benetton Renault",
+      "best_ms": 79150,
+      "best_raw": "1:19.150",
+      "source_session": "Q2"
     },
     {
-      "driver_id": 723,
-      "team": "",
-      "best_time_ms": 81211,
-      "best_time_raw": "1:21.211",
-      "source_session": "Q2",
-      "perf_pct": 103.141
+      "driver_id": 654,
+      "team": "Scuderia Ferrari",
+      "best_ms": 79821,
+      "best_raw": "1:19.821",
+      "source_session": "Q1"
     },
     {
       "driver_id": 725,
-      "team": "",
-      "best_time_ms": 80488,
-      "best_time_raw": "1:20.488",
-      "source_session": "Q1",
-      "perf_pct": 102.223
+      "team": "Total Jordan Peugeot",
+      "best_ms": 80488,
+      "best_raw": "1:20.488",
+      "source_session": "Q1"
     },
     {
-      "driver_id": 726,
-      "team": "",
-      "best_time_ms": 83328,
-      "best_time_raw": "1:23.328",
-      "source_session": "Q1",
-      "perf_pct": 105.829
+      "driver_id": 683,
+      "team": "Scuderia Ferrari",
+      "best_ms": 80510,
+      "best_raw": "1:20.510",
+      "source_session": "Q2"
     },
     {
-      "driver_id": 730,
-      "team": "",
-      "best_time_ms": 78738,
-      "best_time_raw": "1:18.738",
-      "source_session": "Q1",
-      "perf_pct": 100.0
-    },
-    {
-      "driver_id": 731,
-      "team": "",
-      "best_time_ms": 87853,
-      "best_time_raw": "1:27.853",
-      "source_session": "Q1",
-      "perf_pct": 111.576
+      "driver_id": 691,
+      "team": "Mild Seven Benetton Renault",
+      "best_ms": 80652,
+      "best_raw": "1:20.653",
+      "source_session": "Q1"
     },
     {
       "driver_id": 732,
-      "team": "",
-      "best_time_ms": 80749,
-      "best_time_raw": "1:20.749",
-      "source_session": "Q2",
-      "perf_pct": 102.554
+      "team": "Red Bull Sauber/Ford",
+      "best_ms": 80749,
+      "best_raw": "1:20.749",
+      "source_session": "Q2"
     },
     {
-      "driver_id": 733,
-      "team": "",
-      "best_time_ms": 84900,
-      "best_time_raw": "1:24.900",
-      "source_session": "Q2",
-      "perf_pct": 107.826
+      "driver_id": 705,
+      "team": "Marlboro McLaren Mercedes",
+      "best_ms": 80866,
+      "best_raw": "1:20.866",
+      "source_session": "Q1"
     },
     {
-      "driver_id": 735,
-      "team": "",
-      "best_time_ms": 84696,
-      "best_time_raw": "1:24.696",
-      "source_session": "Q1",
-      "perf_pct": 107.567
+      "driver_id": 702,
+      "team": "Marlboro McLaren Mercedes",
+      "best_ms": 80908,
+      "best_raw": "1:20.909",
+      "source_session": "Q1"
+    },
+    {
+      "driver_id": 723,
+      "team": "Total Jordan Peugeot",
+      "best_ms": 81211,
+      "best_raw": "1:21.211",
+      "source_session": "Q2"
+    },
+    {
+      "driver_id": 655,
+      "team": "Ligier Gitanes Blondes/Mugen",
+      "best_ms": 81541,
+      "best_raw": "1:21.541",
+      "source_session": "Q1"
     },
     {
       "driver_id": 737,
-      "team": "",
-      "best_time_ms": 81614,
-      "best_time_raw": "1:21.614",
-      "source_session": "EL2",
-      "perf_pct": 103.653
-    },
-    {
-      "driver_id": 739,
-      "team": "",
-      "best_time_ms": 83058,
-      "best_time_raw": "1:23.058",
-      "source_session": "Q1",
-      "perf_pct": 105.487
+      "team": "Ligier Gitanes Blondes/Mugen",
+      "best_ms": 81614,
+      "best_raw": "1:21.614",
+      "source_session": "EL2"
     },
     {
       "driver_id": 742,
-      "team": "",
-      "best_time_ms": 82059,
-      "best_time_raw": "1:22.059",
-      "source_session": "Q1",
-      "perf_pct": 104.218
+      "team": "Red Bull Sauber/Ford",
+      "best_ms": 82059,
+      "best_raw": "1:22.059",
+      "source_session": "Q1"
     },
     {
-      "driver_id": 743,
-      "team": "",
-      "best_time_ms": 85157,
-      "best_time_raw": "1:25.157",
-      "source_session": "Q2",
-      "perf_pct": 108.152
+      "driver_id": 739,
+      "team": "Nokia Tyrrell Yamaha",
+      "best_ms": 83058,
+      "best_raw": "1:23.058",
+      "source_session": "Q1"
+    },
+    {
+      "driver_id": 726,
+      "team": "Minardi Scuderia Italia/Ford",
+      "best_ms": 83328,
+      "best_raw": "1:23.328",
+      "source_session": "Q1"
     },
     {
       "driver_id": 746,
-      "team": "",
-      "best_time_ms": 83689,
-      "best_time_raw": "1:23.689",
-      "source_session": "Q1",
-      "perf_pct": 106.288
+      "team": "Footwork Hart",
+      "best_ms": 83689,
+      "best_raw": "1:23.689",
+      "source_session": "Q1"
+    },
+    {
+      "driver_id": 722,
+      "team": "Minardi Scuderia Italia/Ford",
+      "best_ms": 83760,
+      "best_raw": "1:23.760",
+      "source_session": "Q1"
+    },
+    {
+      "driver_id": 675,
+      "team": "Nokia Tyrrell Yamaha",
+      "best_ms": 84286,
+      "best_raw": "1:24.286",
+      "source_session": "Q1"
+    },
+    {
+      "driver_id": 735,
+      "team": "Pacific Grand Prix Ltd/Ford",
+      "best_ms": 84696,
+      "best_raw": "1:24.696",
+      "source_session": "Q1"
+    },
+    {
+      "driver_id": 733,
+      "team": "Footwork Hart",
+      "best_ms": 84900,
+      "best_raw": "1:24.900",
+      "source_session": "Q2"
+    },
+    {
+      "driver_id": 743,
+      "team": "Parmalat Forti Ford",
+      "best_ms": 85157,
+      "best_raw": "1:25.157",
+      "source_session": "Q2"
+    },
+    {
+      "driver_id": 643,
+      "team": "Parmalat Forti Ford",
+      "best_ms": 86098,
+      "best_raw": "1:26.098",
+      "source_session": "Q2"
+    },
+    {
+      "driver_id": 731,
+      "team": "Pacific Grand Prix Ltd/Ford",
+      "best_ms": 87853,
+      "best_raw": "1:27.853",
+      "source_session": "Q1"
     }
-  ]
+  ],
+  "race_id": 578,
+  "updated_at": "2025-10-21T14:36:35.126203Z",
+  "schema": "v3.4"
 }
