@@ -1,175 +1,154 @@
 {
-  "race_id": 932,
-  "generated_at": "2025-10-21T10:54:56Z",
-  "schema": "v3.3",
   "drivers": [
     {
-      "driver_id": 764,
-      "team": "MCLAREN HONDA",
-      "best_time_ms": 103026,
-      "best_time_raw": "1:43.026",
-      "source_session": "MT",
-      "perf_pct": 102.344
-    },
-    {
-      "driver_id": 767,
-      "team": "MCLAREN HONDA",
-      "best_time_ms": 104323,
-      "best_time_raw": "1:44.323",
-      "source_session": "MT",
-      "perf_pct": 103.633
-    },
-    {
-      "driver_id": 771,
-      "team": "FERRARI",
-      "best_time_ms": 106186,
-      "best_time_raw": "1:46.186",
-      "source_session": "MT",
-      "perf_pct": 105.483
-    },
-    {
-      "driver_id": 774,
-      "team": "WILLIAMS MERCEDES",
-      "best_time_ms": 108231,
-      "best_time_raw": "1:48.231",
-      "source_session": "MT",
-      "perf_pct": 107.515
-    },
-    {
       "driver_id": 805,
-      "team": "MERCEDES",
-      "best_time_ms": 100666,
-      "best_time_raw": "1:40.666",
-      "source_session": "MT",
-      "perf_pct": 100.0
+      "team": "Mercedes AMG Petronas F1 Team",
+      "best_ms": 100666,
+      "best_raw": "1:40.666",
+      "source_session": "MT"
     },
     {
       "driver_id": 809,
-      "team": "MERCEDES",
-      "best_time_ms": 100738,
-      "best_time_raw": "1:40.738",
-      "source_session": "MT",
-      "perf_pct": 100.072
+      "team": "Mercedes AMG Petronas F1 Team",
+      "best_ms": 100738,
+      "best_raw": "1:40.738",
+      "source_session": "MT"
     },
     {
       "driver_id": 813,
-      "team": "FERRARI",
-      "best_time_ms": 101330,
-      "best_time_raw": "1:41.330",
-      "source_session": "MT",
-      "perf_pct": 100.66
-    },
-    {
-      "driver_id": 819,
-      "team": "",
-      "best_time_ms": 118319,
-      "best_time_raw": "1:58.319",
-      "source_session": "EL1",
-      "perf_pct": 117.536
-    },
-    {
-      "driver_id": 824,
-      "team": "FORCE INDIA MERCEDES",
-      "best_time_ms": 105095,
-      "best_time_raw": "1:45.095",
-      "source_session": "MT",
-      "perf_pct": 104.4
-    },
-    {
-      "driver_id": 831,
-      "team": "FORCE INDIA MERCEDES",
-      "best_time_ms": 103010,
-      "best_time_raw": "1:43.010",
-      "source_session": "MT",
-      "perf_pct": 102.328
+      "team": "Scuderia Ferrari",
+      "best_ms": 101330,
+      "best_raw": "1:41.330",
+      "source_session": "MT"
     },
     {
       "driver_id": 833,
-      "team": "RED BULL RACING RENAULT",
-      "best_time_ms": 101980,
-      "best_time_raw": "1:41.980",
-      "source_session": "MT",
-      "perf_pct": 101.305
+      "team": "Infiniti Red Bull Racing/Renault",
+      "best_ms": 101980,
+      "best_raw": "1:41.980",
+      "source_session": "MT"
     },
     {
-      "driver_id": 839,
-      "team": "MARUSSIA FERRARI",
-      "best_time_ms": 108173,
-      "best_time_raw": "1:48.173",
-      "source_session": "MT",
-      "perf_pct": 107.457
+      "driver_id": 863,
+      "team": "Scuderia Toro Rosso/Renault",
+      "best_ms": 102660,
+      "best_raw": "1:42.660",
+      "source_session": "MT"
     },
     {
-      "driver_id": 842,
-      "team": "",
-      "best_time_ms": 116866,
-      "best_time_raw": "1:56.866",
-      "source_session": "EL1",
-      "perf_pct": 116.093
+      "driver_id": 830,
+      "team": "Lotus F1 Team/Mercedes",
+      "best_ms": 102849,
+      "best_raw": "1:42.849",
+      "source_session": "MT"
     },
     {
-      "driver_id": 848,
-      "team": "SAUBER FERRARI",
-      "best_time_ms": 107381,
-      "best_time_raw": "1:47.381",
-      "source_session": "MT",
-      "perf_pct": 106.671
+      "driver_id": 831,
+      "team": "Sahara Force India F1 Team/Mercedes",
+      "best_ms": 103010,
+      "best_raw": "1:43.010",
+      "source_session": "MT"
+    },
+    {
+      "driver_id": 764,
+      "team": "McLaren Honda",
+      "best_ms": 103026,
+      "best_raw": "1:43.026",
+      "source_session": "MT"
+    },
+    {
+      "driver_id": 864,
+      "team": "Scuderia Toro Rosso/Renault",
+      "best_ms": 103172,
+      "best_raw": "1:43.172",
+      "source_session": "MT"
     },
     {
       "driver_id": 852,
-      "team": "RED BULL RACING RENAULT",
-      "best_time_ms": 103728,
-      "best_time_raw": "1:43.728",
-      "source_session": "MT",
-      "perf_pct": 103.042
+      "team": "Infiniti Red Bull Racing/Renault",
+      "best_ms": 103728,
+      "best_raw": "1:43.728",
+      "source_session": "MT"
     },
     {
-      "driver_id": 857,
+      "driver_id": 767,
       "team": "",
-      "best_time_ms": 121907,
-      "best_time_raw": "2:01.907",
-      "source_session": "EL1",
-      "perf_pct": 121.1
+      "best_ms": 104323,
+      "best_raw": "1:44.323",
+      "source_session": "MT"
+    },
+    {
+      "driver_id": 862,
+      "team": "Sauber F1 Team/Ferrari",
+      "best_ms": 104407,
+      "best_raw": "1:44.407",
+      "source_session": "MT"
+    },
+    {
+      "driver_id": 824,
+      "team": "Sahara Force India F1 Team/Mercedes",
+      "best_ms": 105095,
+      "best_raw": "1:45.095",
+      "source_session": "MT"
+    },
+    {
+      "driver_id": 771,
+      "team": "Scuderia Ferrari",
+      "best_ms": 106186,
+      "best_raw": "1:46.186",
+      "source_session": "MT"
+    },
+    {
+      "driver_id": 848,
+      "team": "Sauber F1 Team/Ferrari",
+      "best_ms": 107381,
+      "best_raw": "1:47.381",
+      "source_session": "MT"
+    },
+    {
+      "driver_id": 839,
+      "team": "Manor Marussia F1 Team/Ferrari",
+      "best_ms": 108173,
+      "best_raw": "1:48.173",
+      "source_session": "MT"
+    },
+    {
+      "driver_id": 774,
+      "team": "Williams Martini Racing/Mercedes",
+      "best_ms": 108231,
+      "best_raw": "1:48.231",
+      "source_session": "MT"
+    },
+    {
+      "driver_id": 842,
+      "team": "Williams Martini Racing/Mercedes",
+      "best_ms": 116866,
+      "best_raw": "1:56.866",
+      "source_session": "EL1"
+    },
+    {
+      "driver_id": 819,
+      "team": "Lotus F1 Team/Mercedes",
+      "best_ms": 118319,
+      "best_raw": "1:58.319",
+      "source_session": "EL1"
     },
     {
       "driver_id": 860,
       "team": "",
-      "best_time_ms": 119431,
-      "best_time_raw": "1:59.431",
-      "source_session": "EL1",
-      "perf_pct": 118.641
+      "best_ms": 119431,
+      "best_raw": "1:59.431",
+      "source_session": "EL1"
     },
     {
-      "driver_id": 863,
-      "team": "STR RENAULT",
-      "best_time_ms": 102660,
-      "best_time_raw": "1:42.660",
-      "source_session": "MT",
-      "perf_pct": 101.981
-    },
-    {
-      "driver_id": 864,
-      "team": "STR RENAULT",
-      "best_time_ms": 103172,
-      "best_time_raw": "1:43.172",
-      "source_session": "MT",
-      "perf_pct": 102.489
-    },
-    {
-      "driver_id": 830,
-      "team": "LOTUS MERCEDES",
-      "best_time_ms": 102849,
-      "best_time_raw": "1:42.849",
-      "source_session": "MT",
-      "perf_pct": 102.169
-    },
-    {
-      "driver_id": 862,
-      "team": "SAUBER FERRARI",
-      "best_time_ms": 104407,
-      "best_time_raw": "1:44.407",
-      "source_session": "MT",
-      "perf_pct": 103.716
+      "driver_id": 857,
+      "team": "Manor Marussia F1 Team/Ferrari",
+      "best_ms": 121907,
+      "best_raw": "2:01.907",
+      "source_session": "EL1"
     }
-  ]
+  ],
+  "race_id": 932,
+  "updated_at": "2025-10-21T14:36:37.101058Z",
+  "schema": "v3.4"
 }
